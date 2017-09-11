@@ -1,2 +1,2 @@
-# SWEN-222-2017
-Assignments for SWEN 222 2017
+#SWEN 222 A1 Sword and Shield Game
+Code for MVC based board game using text interface
